@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zain</h1>
+<h3 align="center">Aspiring Machine Learning Engineer/Data Scientist From India . I work in Finance and Healthcare domain projects</h3>
 
-<!--
-**Zain9548/Zain9548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain9548&label=Profile%20views&color=0e75b6&style=flat" alt="zain9548" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zain9548" alt="zain9548" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Chatbot_sathi**
+
+- 🌱 I’m currently learning **Natural language Processing, DSA,GenAI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Zain9548](https://github.com/Zain9548)
+
+- 💬 Ask me about **Hey there 👋 I’m Mohd Ajeem, an Aspiring Machine Learning Engineer and AI enthusiast from Bareilly, Uttar Pradesh, India. I’m currently pursuing my B.Tech in Artificial Intelligence & Data Science (2022–2026) from Dr. A.P.J. Abdul Kalam Technical University, Lucknow. I’m deeply passionate about building intelligent systems that combine data, algorithms, and creativity to solve real-world problems. My primary focus areas include Machine Learning, Deep Learning, and Generative AI, with a strong interest in developing AI-powered web applications that can create social and business impact. Over time, I’ve gained hands-on experience in Python, Scikit-learn, TensorFlow, Keras, Streamlit, and SQL — using them to build and deploy models in domains like healthcare analytics, recommendation systems, and computer vision. I’ve worked on impactful projects such as: 🩺 AI-Powered Medical Diagnostics Web App — real-time disease detection using Gemini Flash API. 🧬 Chronic Kidney Disease Predictor — CatBoost model for early-stage diagnosis. 💉 Diabetes Prediction System — machine learning pipeline for patient risk detection. I believe that AI is not just about automation — it’s about augmentation, empowering humans to make better, faster, and more ethical decisions. Currently, I’m exploring Large Language Models (LLMs), Prompt Engineering, and Explainable AI, with a goal to integrate them into practical applications that make a difference. When I’m not coding, I love reading AI research papers, exploring new cloud tools, and discovering how data can be turned into meaningful intelligence. My long-term vision is to become a world-class Machine Learning Engineer and AI Innovator, creating technologies that help shape a smarter, fairer, and more connected future 🌍**
+
+- 📫 How to reach me **ajeem8119@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JEyIqlIkRmbBPxWO_aVxfQM3pZFfcxr4/view?usp=drive_link](https://drive.google.com/file/d/1JEyIqlIkRmbBPxWO_aVxfQM3pZFfcxr4/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohd-ajeem-72007b261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-ajeem-72007b261" height="30" width="40" /></a>
+<a href="https://kaggle.com/ajeemansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajeemansari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajeem_1372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeem_1372" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zain9548&show_icons=true&locale=en&layout=compact" alt="zain9548" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zain9548&show_icons=true&locale=en" alt="zain9548" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain9548&" alt="zain9548" /></p>
