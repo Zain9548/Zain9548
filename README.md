@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
+<h1 align="center">Hi 👋, I'm Mohd Ajeem</h1>
+<div align="center"><img src="https://github.com/Zain9548/Zain9548/blob/main/Blue%20White%20Modern%20Online%20Business%20Webinar%20Banner.png"></div>
 <h3 align="center">Aspiring Machine Learning Engineer/Data Scientist From India . I work in Finance and Healthcare domain projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain9548&label=Profile%20views&color=0e75b6&style=flat" alt="zain9548" /> </p>
