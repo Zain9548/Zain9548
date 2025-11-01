@@ -33,3 +33,27 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zain9548&show_icons=true&locale=en" alt="zain9548" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain9548&" alt="zain9548" /></p>
+
+
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- Footer with Quote -->
+<div align="center">
+  
+### 🖤 *"Code is poetry written in logic."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff6b6b?style=for-the-badge" alt="Made with love and coffee"/>
+</div>
