@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohd Ajeem</h1>
 <div align="center"><img src="https://github.com/Zain9548/Zain9548/blob/main/Blue%20White%20Modern%20Online%20Business%20Webinar%20Banner.png"></div>
-<h3 align="center">Aspiring Machine Learning Engineer/Data Scientist From India . I work in Finance and Healthcare domain projects</h3>
+<h3 align="center">Aspiring Machine Learning Engineer/Data Scientist From India . B.Tech in Artificial intelligence & Data Science.I work in unique Multiple projects using Machine learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain9548&label=Profile%20views&color=0e75b6&style=flat" alt="zain9548" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zain9548" alt="zain9548" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot_sathi**
+- 🔭 I’m currently working on **Stock price movement predictor using order book data**
 
-- 🌱 I’m currently learning **Natural language Processing, DSA,GenAI**
+- 🌱 I’m currently learning **Natural language Processing, DSA, GenAI, AgenticAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zain9548](https://github.com/Zain9548)
 
@@ -57,3 +57,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff6b6b?style=for-the-badge" alt="Made with love and coffee"/>
 </div>
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-ajeem-72007b261)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/ajeemansari)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0EA4E9?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ajeem_1372)
+📫 ajeem8119@gmail.com | 📄 [Resume](https://drive.google.com/file/d/1JEyIqlIkRmbBPxWO_aVxfQM3pZFfcxr4/view?usp=drive_link)
